@@ -1,0 +1,19 @@
+{
+  "name": "first-backend-app",
+  "version": "1.0.0",
+  "description": "This is my first backend app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "first",
+    "app"
+  ],
+  "author": "Saad Ali",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
